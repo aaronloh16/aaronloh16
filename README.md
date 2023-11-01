@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 i'm aaron, a second year software engineering student at mcmaster university! 
 
 👀 I’m interested in basketball, coding, AI, and collaborating in teams to innovatively solve problems
