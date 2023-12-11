@@ -9,4 +9,4 @@ i'm aaron, a second year software engineering student at mcmaster university!
 
 📫 Reach me through aaronloh04@gmail.com
 
-check out some of my projects here.
+I'm working on some cool projects to display here soon!
