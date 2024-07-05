@@ -9,4 +9,4 @@ i'm aaron, a third year software engineering student at mcmaster university!
 
 📫 Reach me through aaronloh04@gmail.com
 
-I'm working on some cool projects to display here soon! These include a react JS app called "habits together", and a personal portfolio website that i can use to showcase my future projects
+I'm working on some cool projects to display here soon! These include a react native app called "habits together" (for tracking habits with friends), and a personal portfolio website that I will use to showcase my future projects.
