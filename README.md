@@ -1,12 +1,26 @@
-## Hello👋
-i'm aaron, a third year software engineering student at mcmaster university! 
+# Hello There! 👋
 
-👀 I have a wide range of interests from sports (golf, basketball) to full stack development (exploring this right now doing an IBM Full stack developer certificate)
+I'm Aaron, a third-year Software Engineering student at McMaster University!
 
-🌱 I’m currently studying software engineering @ McMaster
+## 👀 Interests
+- Sports: Golf, Basketball
+- Full Stack Development (currently exploring through IBM Full Stack Developer Certificate)
 
-💞️ I’m looking to collaborate on software projects or hackathons
+## 🌱 Current Focus
+- Studying Software Engineering @ McMaster University
+- Expanding my skills in full stack development
 
-📫 Reach me through aaronloh04@gmail.com
+## 💞️ Collaboration
+I'm eager to collaborate on software projects and participate in hackathons. Recently, my team and I won Hack the North 2024, the biggest hackathon in Canada!
 
-I'm working on some cool projects to display here soon! These include a react native app called "habits together" (for tracking habits with friends), and a new personal portfolio website that I will use to showcase my future projects.
+## 📫 Contact
+Reach me at: aaronloh04@gmail.com
+
+## 🚀 Upcoming Projects
+I'm working on several exciting projects that I'll be showcasing here soon:
+
+1. **Habits Together**: A React Native app for tracking habits with friends
+2. **Personal Portfolio Website**: A revamped portfolio using React and Next.js to showcase my future projects (it'll be a significant improvement over my current one!)
+3. **IBM Full Stack Certificate Capstone**: A full stack web app integrating various relevant and cutting-edge technologies
+
+Stay tuned for updates on these projects!
