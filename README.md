@@ -20,8 +20,7 @@ Reach me at: aaronloh04@gmail.com
 I'm working on several exciting projects that I'll be showcasing here soon:
 
 1. **Habits Together**: A React Native app for tracking habits with friends
-2. **Personal Portfolio Website**: A revamped portfolio using React and Next.js to showcase my future projects (it'll be a significant improvement over my current one!)
-3. Here is my current one: https://aaronloh16.github.io/Personal-Website/
+2. **Personal Portfolio Website**: A revamped portfolio using React and Next.js to showcase my future projects (it'll be a significant improvement over my current one!) Here is my current one: https://aaronloh16.github.io/Personal-Website/
 4. **IBM Full Stack Certificate Capstone**: A full stack web app integrating various relevant and cutting-edge technologies
 
 Stay tuned for updates on these projects!
