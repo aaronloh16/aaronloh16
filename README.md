@@ -33,4 +33,4 @@ feel free to get in touch: aaronloh04@gmail.com
 **devpost:** [aaronloh892579](https://devpost.com/aaronloh892579)  
 **linkedin:** [aaron-loh26](https://linkedin.com/in/aaron-loh26)  
 
-always building something new. currently obsessed with voice ai and autonomous agents.
+always building something new. currently quite interested in autonomous agents.
