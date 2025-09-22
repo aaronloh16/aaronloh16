@@ -1,6 +1,8 @@
 # aaron loh
 
-software engineering student building ai-powered systems and voice interfaces
+interested in all things software, ai, automation, and cloud :)
+
+feel free to get in touch: aaronloh04@gmail.com
 
 ## what i'm working on
 
