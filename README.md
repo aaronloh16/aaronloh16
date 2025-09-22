@@ -10,7 +10,7 @@ feel free to get in touch: aaronloh04@gmail.com
 
 ## recent projects
 
-**shopx** - claude code, but for shopping: a command-line tool that lets you shop online while looking like you're doing development workRetry
+**shopx** - claude code, but for shopping: a command-line tool that lets you shop online while looking like you're doing development work
 **murder mystery ai** - voice-powered game with real-time speech processing and dynamic ai characters  
 **hack the north 2024 finalist** - top 12/240+ projects with lurelore fishing companion app  
 **rbc amplify** - contributed to early stage design of ai bond evaluation platform (had to leave because of concussion but my team still won so ha)
