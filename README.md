@@ -1,6 +1,6 @@
 # aaron loh
 
-interested in all things software, ai, automation, and cloud :)
+software engineer @ rbc interested in fintech, ai, automation, and cloud. always building something new.
 
 feel free to get in touch: aaronloh04@gmail.com
 
@@ -10,10 +10,10 @@ feel free to get in touch: aaronloh04@gmail.com
 
 ## recent projects
 
-**shopx** - claude code, but for shopping: a command-line tool that lets you shop online while looking like you're doing development work
+**shopx** - claude code, but for shopping: a command-line shopping agent that brings e-commerce to your terminal
 **murder mystery ai** - voice-powered game with real-time speech processing and dynamic ai characters  
 **hack the north 2024 finalist** - top 12/240+ projects with lurelore fishing companion app  
-**rbc amplify** - contributed to early stage design of ai bond evaluation platform (had to leave because of concussion but my team still won so ha)
+**rbc amplify** - contributed to design of ai bond evaluation platform
 
 ## tech stack
 
@@ -25,12 +25,12 @@ feel free to get in touch: aaronloh04@gmail.com
 
 ## upcoming
 
-**llm research** - diving deeper into how large language models work and interpretability methods (if i get in)
+**llm research** - diving deeper into how large language models work and interpretability methods
 
 ## links
 
 **portfolio:** [aaronloh.xyz](https://aaronloh.xyz)  
-**devpost:** [aaronloh892579](https://devpost.com/aaronloh892579)  
+**devpost:** [aaronloh892579](https://devpost.com/aaronloh)  
 **linkedin:** [aaron-loh26](https://linkedin.com/in/aaron-loh26)  
 
 always building something new. currently quite interested in autonomous agents.
