@@ -1,36 +1,30 @@
 # aaron loh
 
-software engineer @ rbc interested in fintech, ai, automation, and cloud. always building something new.
+software engineer building agentic AI infrastructure. figuring out how to make useful things reach more people.
 
-feel free to get in touch: aaronloh04@gmail.com
+## now
 
-## what i'm working on
+**royal bank of canada** — software developer, cash management technology  
+**stan fellow** — first cohort, building in public
 
-**rbc payments infrastructure** - helping build scalable systems using message queues and mongodb for financial data processing, ai data mapping, and devops (github actions)
+## previously
 
-## recent projects
+rbc global payments · rbc amplify · boardy.ai fellow · google developer groups mcmaster · mcscert
 
-**shopx** - claude code, but for shopping: a command-line shopping agent that brings e-commerce to your terminal
-**murder mystery ai** - voice-powered game with real-time speech processing and dynamic ai characters  
-**hack the north 2024 finalist** - top 12/240+ projects with lurelore fishing companion app  
-**rbc amplify** - contributed to design of ai bond evaluation platform
+## building
 
-## tech stack
+**agent infrastructure** — unifying agents, MCPs, and tool routing towards real agentic AI  
+**ai stack radar** — curating AI tools and frameworks  
+**shopx** — claude code, but for shopping: a CLI agent that brings e-commerce to your terminal
 
-**languages:** python, typescript, javascript, java  
-**ai/ml:** openai api, gemini api, llms, voice ai (livekit sdk)  
-**backend:** node.js, nestjs, express.js, flask  
-**frontend:** react, next.js  
-**databases:** mongodb, postgresql  
+## highlights
 
-## upcoming
+hack the north 2024 finalist (top 12/240+) · murder mystery AI (voice-powered with livekit) · glassbox LLM (open-source interpretability library)
 
-**llm research** - diving deeper into how large language models work and interpretability methods
+## interests
+
+AI agents · open source · hackathons · tennis · golf · triathlon
 
 ## links
 
-**portfolio:** [aaronloh.xyz](https://aaronloh.xyz)  
-**devpost:** [aaronloh892579](https://devpost.com/aaronloh)  
-**linkedin:** [aaron-loh26](https://linkedin.com/in/aaron-loh26)  
-
-always building something new. currently quite interested in autonomous agents.
+[aaronloh.xyz](https://aaronloh.xyz) · [x](https://x.com/aaronloh_) · [linkedin](https://linkedin.com/in/aaron-loh26) · [github](https://github.com/aaronloh16) · [devpost](https://devpost.com/aaronloh)
